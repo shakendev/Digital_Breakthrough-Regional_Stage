@@ -5,7 +5,7 @@ Server application for checking affiliations of persons on the public services p
 
 # Digital_ENV
 
-![image alt](https://raw.githubusercontent.com/D1mk4Novikov/Digital_ENV/master/Logo/Digital_ENV_Logo.png)
+![image alt](https://github.com/D1mk4Novikov/Digital_Breakthrough-Regional_Stage/Production/Logo/Digital_ENV_Logo.png)
 
 This website allows you to get information about purchases and monitor their implementation...
 
