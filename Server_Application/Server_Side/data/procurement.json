@@ -1,0 +1,44 @@
+[{
+  "purchaseID": "0312100004719000037",
+  "cost": 91000,
+  "description": "20 Телевизоров Panasonic 22FLE20T2 черный [FullHD, 1920х1080, DVB-T2, DVB-C, HDMI х 1, USB х 1, VGA (D-Sub)]",
+  "review": {"plus": ["Выполняли работу в срок"], "neutral": ["Под угрозой банкротства"], "minus": ["Качество работы посредственное"]},
+  "resultReview": "B"
+},
+  {
+    "purchaseID": "0312100004719000037",
+    "cost": 91050,
+    "description": "20 Телевизоров LG KGJ-OLED2252T1 серые [HD, 1366x768, DVB-T2, DVB-C, DVB-S2, HDMI х 1, USB х 1, VGA (D-Sub)]",
+    "review": {"plus": [], "neutral": ["Задерживают сроки", "Подозрение на аффилированность: родственные связи"], "minus": ["Товар был повреждён", "Задержали срок на неделю"]},
+    "resultReview": "C"
+  },
+  {
+    "purchaseID": "0312100004719000037",
+    "cost": 99500,
+    "description": "20 Телевизоров Huawei TF-LED22S50T2 черные [FullHD, 1920х1080, DVB-T, DVB-T2, DVB-C, HDMI х 1, USB х 1, VGA (D-Sub)]",
+    "review": {"plus": ["Доставку осуществляют вовремя", "Быстрая доставка"], "neutral": [], "minus": []},
+    "resultReview": "A"
+  },
+  {
+    "purchaseID": "0360100026519000013",
+    "cost": 20000,
+    "description": "5 стульев Harak",
+    "review": {"plus": ["Доставку осуществляют вовремя", "Быстрая доставка"], "neutral": [], "minus": []},
+    "resultReview": "A"
+  },
+  {
+    "purchaseID": "0360100026519000013",
+    "cost": 17000,
+    "description": "5 стульев Joys",
+    "review": {"plus": ["Доставку осуществляют вовремя"], "neutral": ["Качество товара оставляет желать лучшего"], "minus": []},
+    "resultReview": "B"
+  },
+  {
+    "purchaseID": "123",
+    "cost": 666,
+    "description": "test",
+    "review": {"plus": ["test"], "neutral": ["test"], "minus": []},
+    "resultReview": "B"
+  }
+
+]

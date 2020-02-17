@@ -1,0 +1,33 @@
+{
+  "name": "digital_env",
+  "version": "0.7.0-early_access",
+  "description": "This website allows you to get information about purchases and monitor their implementation",
+  "main": "Server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D1mk4Novikov/Digital_ENV.git"
+  },
+  "keywords": [
+    "government",
+    "procurement",
+    "framework",
+    "digital",
+    "ENV",
+    "API",
+    "public"
+  ],
+  "author": "Digital ENV Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D1mk4Novikov/Digital_ENV/issues"
+  },
+  "homepage": "https://github.com/D1mk4Novikov/Digital_ENV#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
