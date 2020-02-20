@@ -54,7 +54,7 @@ npm -v
 Second, you need clone this repository to your server machine.
 
 ```bash
-git clone https://github.com/D1mk4Novikov/Digital_ENV.git
+git clone https://github.com/D1mk4Novikov/Digital_Breakthrough-Regional_Stage
 ```
 
 ## Usage information
